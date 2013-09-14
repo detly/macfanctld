@@ -1,4 +1,4 @@
-macfanctld (0.7.detly-1~dist) UNRELEASED; urgency=low
+macfanctld (0.7.detly-1~quantal) quantal; urgency=low
 
   * Repackaging and including patches.
 
