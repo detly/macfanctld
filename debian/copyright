@@ -6,6 +6,7 @@ Source: https://github.com/detly/macfanctld
 Files: *
 Copyright: 2010, Mikael Strom
            2012, Peter Bailey
+           2013, Jason Heeris
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify 
  it under the terms of the GNU General Public License as published by 
