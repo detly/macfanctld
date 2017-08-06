@@ -1,5 +1,5 @@
-macfanctld (0.7.detly-1~xenial) xenial; urgency=medium
+macfanctld (0.7.detly-1~yakkety) yakkety; urgency=medium
 
-  * Initial packaging for Xenial.
+  * Initial packaging for Yakkety.
 
- -- Jason Heeris <jason.heeris@gmail.com>  Fri, 22 Jul 2016 10:18:41 +1000
+ -- Jason Heeris <jason.heeris@gmail.com>  Sun, 06 Aug 2017 13:10:43 +1000

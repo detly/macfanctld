@@ -3,15 +3,15 @@ Section: misc
 Priority: optional
 Maintainer: Jason Heeris <jason.heeris@gmail.com>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 Homepage: https://github.com/detly/macfanctld
 
 Package: macfanctld
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, lsb-base (>= 3.0-6)
 Description:  Fan control daemon for MacBook
  A customizable fan control daemon for MacBooks and Mac Minis. Macfanctld will
- keep the working temperature within resonable limits by reading the built-in
+ keep the working temperature within reasonable limits by reading the built-in
  temperature sensors and adjusting the fan speed. It is configurable, and can
  use multiple sources to determine what fan speed to set: average temperature
  from all sensors, TC0P (CPU 0 proximity temp) and TG0P (GPU 0 proximity temp).
